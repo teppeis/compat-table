@@ -4431,6 +4431,7 @@ exports.tests = [
       res: {
         tr: true,
         babel6: babel.regenerator,
+        closure20180319: true,
         edge12: edge.experimental,
         edge13: true,
         firefox2: false,
@@ -11621,6 +11622,7 @@ exports.tests = [
       res: {
         tr: true,
         babel6: true,
+        closure: true,
         ejs: true,
         es6tr: true,
         jsx: true,
@@ -12405,6 +12407,7 @@ exports.tests = [
       res: {
         tr: true,
         babel6: true,
+        closure: true,
         ejs: true,
         es6tr: true,
         jsx: true,
@@ -12955,6 +12958,7 @@ exports.tests = [
       res: {
         tr: true,
         babel6: true,
+        closure: true,
         ejs: true,
         es6tr: true,
         jsx: true,
