@@ -18879,6 +18879,7 @@ exports.tests = [
       */},
       res: {
         babel6: babel.corejs,
+        closure: true,
         typescript1: typescript.corejs,
         es6shim: true,
         edge12: true,
